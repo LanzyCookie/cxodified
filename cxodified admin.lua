@@ -43,7 +43,7 @@ end
 -------------------------------------------- VARIABLES --------------------------------------------
 
 -- local cxoURL = "https://raw.githubusercontent.com/pcxo/whitelisted/main/users" (old)
-local cxoURL = "https://raw.githubusercontent.com/pcxo/cxos-admin/refs/heads/main/whitelisted" -- (new)
+local cxoURL = "https://raw.githubusercontent.com/LanzyCookie/cxodified/refs/heads/main/whitelisted%20(self%20inserted)" -- (new)
 local cxoURL2 = "https://raw.githubusercontent.com/pcxo/cxos-admin/refs/heads/main/whitelisted2"
 local cmds = {}
 local banned = {}
